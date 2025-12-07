@@ -40,12 +40,12 @@ Visualizations (charts, pivot tables, and the dashboard) provided a clear view o
 
 Institution with Maximum Complaints: The highest number of complaints came from Bank of America.
 
-**Complaint Types: ** Most complaints were related to Loan servicing, payments, escrow account.
+**Complaint Types**: Most complaints were related to Loan servicing, payments, escrow account.
 
-**Resolution Delays: ** Bank of America,TD Bank US Holding Company, HSBC North America Holdings Inc.,PayPal Holdings, Citizens Financial Group Inc.,
+**Resolution Delays**:Bank of America,TD Bank US Holding Company, HSBC North America Holdings Inc.,PayPal Holdings, Citizens Financial Group Inc.,
 took longer to resolve complaints, indicating operational inefficiencies.
 
-**Patterns Over Time: ** There was a noticeable rise in complaints from June to August, followed by a decline from September to December.
+**Patterns Over Time**: There was a noticeable rise in complaints from June to August, followed by a decline from September to December.
 
 **Conclusion**
 
